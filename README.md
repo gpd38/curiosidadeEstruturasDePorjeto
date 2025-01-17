@@ -37,3 +37,8 @@ A seguir estarei listando algumas linguagens mais utilizadas e uma estrutura de 
 
 
 ##### 
+
+
+### Licença
+
+Este projeto esta sobe a licença [MIT](./LICENSE).
