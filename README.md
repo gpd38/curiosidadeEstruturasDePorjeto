@@ -20,7 +20,7 @@ A seguir estarei listando algumas linguagens mais utilizadas e uma estrutura de 
 ### Estrutura
 
 ##### Javascript
-
+```javascript
 /project-root
 ├── /src
 │   ├── /components
@@ -32,12 +32,178 @@ A seguir estarei listando algumas linguagens mais utilizadas e uma estrutura de 
 ├── /tests
 ├── package.json
 └── README.md
+```
+
+##### Html, Css, Js
+```html
+/project-root
+├── /index.html
+├── /css
+│ └── styles.css
+├── /js
+│ └── script.js
+├── /images
+└── README.md
+```
+
+##### Java
+```java
+/project-root
+├── /src
+│ ├── /main
+│ │ ├── /java
+│ │ └── /resources
+│ └── /test
+│ └── /java
+├── pom.xml
+└── README.md
+```
 
 ##### Python
+```python
+/project-root
+├── /src
+│ ├── /module_name
+│ │ ├── init.py
+│ │ ├── main.py
+│ │ └── utils.py
+├── /tests
+├── requirements.txt
+└── README.md
+```
 
+##### C#
+```c#
+/project-root
+├── /src
+│ ├── /ProjectName
+│ │ ├── Program.cs
+│ │ └── /Controllers
+│ └── /tests
+├── ProjectName.csproj
+└── README.md
+```
 
-##### 
+##### Php
+```php
+/project-root
+├── /src
+├── /public
+├── /tests
+├── composer.json
+└── README.md
+```
 
+##### C++
+```c++
+/project-root
+├── /src
+│ ├── main.cpp
+│ └── /include
+├── /lib
+├── /tests
+├── CMakeLists.txt
+└── README.md
+```
+
+##### C
+```c
+/project-root
+├── /src
+│ ├── main.c
+│ └── /include
+├── /lib
+├── /tests
+├── Makefile
+└── README.md
+```
+
+##### TypeScript
+```typescript
+/project-root
+├── /src
+│ ├── /components
+│ ├── /hooks
+│ ├── /pages
+│ └── /utils
+├── /tests
+├── tsconfig.json
+└── README.md
+```
+
+##### Ruby
+```ruby
+/project-root
+├── /app
+├── /lib
+├── /test
+├── Gemfile
+└── README.md
+```
+
+##### Swift
+```swift
+/project-root
+├── /Sources
+├── /Tests
+├── Package.swift
+└── README.md
+```
+
+##### Assembly
+```assembly
+/project-root
+├── /src
+│ └── main.asm
+├── /build
+├── /tests
+└── README.md
+```
+
+##### Go
+```
+/project-root
+├── /cmd
+├── /pkg
+├── /internal
+├── /tests
+├── go.mod
+└── README.md
+```
+
+##### Objective-C
+```
+/project-root
+├── /src
+│ ├── main.m
+│ └── /Classes ├── /Resources ├── /Tests └── README.md
+```
+
+##### Vb.Net
+```
+/project-root
+├── /src
+│ ├── Program.vb
+│ └── /Classes
+├── /Tests
+├── ProjectName.vbproj
+└── README.md
+```
+
+##### R
+```
+/project-root
+├── /R
+├── /data
+├── /docs
+├── /tests
+└── README.md
+```
+
+##### Rust
+```
+
+```
 
 ### Licença
 
