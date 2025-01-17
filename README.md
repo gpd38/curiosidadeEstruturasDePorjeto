@@ -72,6 +72,19 @@ A seguir estarei listando algumas linguagens mais utilizadas e uma estrutura de 
 └── README.md
 ```
 
+##### Kotlin
+```kotlin
+/project-root
+├── /src
+│   ├── /main
+│   │   ├── /kotlin
+│   │   └── /resources
+│   └── /test
+│       └── /kotlin
+├── build.gradle
+└── README.md
+```
+
 ##### C#
 ```c#
 /project-root
