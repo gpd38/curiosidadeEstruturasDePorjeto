@@ -243,7 +243,7 @@ Aqui estão alguns exemplo de como criar projetos das linguagens de programaçã
   * 3 Navegue para o diretório do projeto e inicie o servidor:
      ~~~
      cd my-react-app
-     npm -vnpm start
+     npm start
      ~~~
   
 
