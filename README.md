@@ -14,6 +14,7 @@ A seguir estarei listando algumas linguagens mais utilizadas e uma estrutura de 
 
 <p align="center">
 	<a href="#Estrutura">Estrutura</a> •
+	<a href="#Construcao">Construção</a> •
 	<a href="#Licença">Licença</a>
 </p>
 
@@ -223,6 +224,28 @@ A seguir estarei listando algumas linguagens mais utilizadas e uma estrutura de 
 ├── Cargo.toml
 └── README.md
 ```
+
+### Construcao
+
+Aqui estão alguns exemplo de como criar projetos das linguagens de programação citadas anteriormente.
+
+##### Javascript
+* 1 React
+  * 1 Certifique-se de que o Node.js está instalado:
+     ~~~
+     node -v
+     npm -v
+     ~~~
+  * 2 Use o comando do create-react-app para inicializar o projeto:
+     ~~~
+     npx create-react-app my-react-app
+     ~~~
+  * 3 Navegue para o diretório do projeto e inicie o servidor:
+     ~~~
+     cd my-react-app
+     npm -vnpm start
+     ~~~
+  
 
 ### Licença
 
