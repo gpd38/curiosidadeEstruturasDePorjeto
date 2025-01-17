@@ -202,7 +202,13 @@ A seguir estarei listando algumas linguagens mais utilizadas e uma estrutura de 
 
 ##### Rust
 ```
-
+/project-root
+├── /src
+│ ├── main.rs
+│ └── lib.rs
+├── /tests
+├── Cargo.toml
+└── README.md
 ```
 
 ### Licença
