@@ -13,13 +13,34 @@ A seguir estarei listando algumas linguagens mais utilizadas e uma estrutura de 
 </p>
 
 <p align="center">
+	<a href="#Linguagens">Linguagens</a> •
 	<a href="#Estrutura">Estrutura</a> •
 	<a href="#Construcao">Construção</a> •
 	<a href="#Licença">Licença</a>
 </p>
 
-### Estrutura
+### Linguagens
+As linguagens que iremos abordar aqui são:
+   - JavaScript
+   - HTML, CSS
+   - Java
+   - Python
+   - Kotlin
+   - C#
+   - PHP
+   - C++
+   - C
+   - TypeScript
+   - Ruby
+   - Swift
+   - Assembly
+   - Go
+   - Objective-C
+   - VB.Net
+   - R
+   - Rust
 
+### Estrutura
 ##### Javascript
 ```javascript
 /project-root
@@ -226,7 +247,6 @@ A seguir estarei listando algumas linguagens mais utilizadas e uma estrutura de 
 ```
 
 ### Construcao
-
 Aqui estão alguns exemplo de como criar projetos das linguagens de programação citadas anteriormente.
 
 ##### Javascript
@@ -248,5 +268,4 @@ Aqui estão alguns exemplo de como criar projetos das linguagens de programaçã
   
 
 ### Licença
-
 Este projeto esta sobe a licença [MIT](./LICENSE).
