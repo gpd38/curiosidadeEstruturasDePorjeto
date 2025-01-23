@@ -1,1 +1,62 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Diretório de dependências do Node.js
+node_modules/
+
+# Cache de pacotes
+*.tgz
+package-lock.json
+yarn.lock
+
+# Diretórios de build/output
+dist/
+build/
+out/
+
+# Configurações do editor/IDE
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.ps1
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de teste e relatórios de cobertura
+coverage/
+*.lcov
+
+# Variáveis de ambiente
+.env
+.env.*.local
+
+# Arquivos temporários
+*.tmp
+*.temp
+
+# Banco de dados SQLite (caso você use SQLite localmente)
+*.sqlite
+*.sqlite3
+
+# Páginas estáticas geradas (para frameworks como Next.js)
+.next/
+
+# Arquivos de cache do TypeScript (caso esteja usando TypeScript)
+*.tsbuildinfo
+
+# Outras pastas relacionadas a frameworks/libs
+.svelte-kit/
+.nuxt/
+.vercel/
+
+# Dependências locais do PM2
+pm2.log
 
